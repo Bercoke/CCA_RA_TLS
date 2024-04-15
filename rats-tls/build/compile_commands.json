@@ -1,0 +1,560 @@
+[
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/core/rtls_common.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/core/rtls_common.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/core/rtls_common.c",
+  "output": "src/CMakeFiles/rats_tls.dir/core/rtls_common.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/core/rtls_core_generate_certificate.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/core/rtls_core_generate_certificate.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/core/rtls_core_generate_certificate.c",
+  "output": "src/CMakeFiles/rats_tls.dir/core/rtls_core_generate_certificate.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/core/main.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/core/main.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/core/main.c",
+  "output": "src/CMakeFiles/rats_tls.dir/core/main.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/core/cpu.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/core/cpu.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/core/cpu.c",
+  "output": "src/CMakeFiles/rats_tls.dir/core/cpu.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/core/dice.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/core/dice.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/core/dice.c",
+  "output": "src/CMakeFiles/rats_tls.dir/core/dice.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/core/endorsement.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/core/endorsement.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/core/endorsement.c",
+  "output": "src/CMakeFiles/rats_tls.dir/core/endorsement.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/core/claim.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/core/claim.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/core/claim.c",
+  "output": "src/CMakeFiles/rats_tls.dir/core/claim.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/api/rats_tls_cleanup.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/api/rats_tls_cleanup.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/api/rats_tls_cleanup.c",
+  "output": "src/CMakeFiles/rats_tls.dir/api/rats_tls_cleanup.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/api/rats_tls_init.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/api/rats_tls_init.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/api/rats_tls_init.c",
+  "output": "src/CMakeFiles/rats_tls.dir/api/rats_tls_init.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/api/rats_tls_negotiate.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/api/rats_tls_negotiate.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/api/rats_tls_negotiate.c",
+  "output": "src/CMakeFiles/rats_tls.dir/api/rats_tls_negotiate.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/api/rats_tls_receive.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/api/rats_tls_receive.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/api/rats_tls_receive.c",
+  "output": "src/CMakeFiles/rats_tls.dir/api/rats_tls_receive.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/api/rats_tls_transmit.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/api/rats_tls_transmit.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/api/rats_tls_transmit.c",
+  "output": "src/CMakeFiles/rats_tls.dir/api/rats_tls_transmit.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/api/rats_tls_callback.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/api/rats_tls_callback.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/api/rats_tls_callback.c",
+  "output": "src/CMakeFiles/rats_tls.dir/api/rats_tls_callback.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/crypto_wrappers/api/crypto_wrapper_register.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/api/crypto_wrapper_register.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/api/crypto_wrapper_register.c",
+  "output": "src/CMakeFiles/rats_tls.dir/crypto_wrappers/api/crypto_wrapper_register.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/crypto_wrappers/internal/crypto_wrapper.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/internal/crypto_wrapper.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/internal/crypto_wrapper.c",
+  "output": "src/CMakeFiles/rats_tls.dir/crypto_wrappers/internal/crypto_wrapper.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/crypto_wrappers/internal/rtls_crypto_wrapper_load_all.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/internal/rtls_crypto_wrapper_load_all.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/internal/rtls_crypto_wrapper_load_all.c",
+  "output": "src/CMakeFiles/rats_tls.dir/crypto_wrappers/internal/rtls_crypto_wrapper_load_all.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/crypto_wrappers/internal/rtls_crypto_wrapper_load_single.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/internal/rtls_crypto_wrapper_load_single.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/internal/rtls_crypto_wrapper_load_single.c",
+  "output": "src/CMakeFiles/rats_tls.dir/crypto_wrappers/internal/rtls_crypto_wrapper_load_single.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/crypto_wrappers/internal/rtls_crypto_wrapper_select.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/internal/rtls_crypto_wrapper_select.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/internal/rtls_crypto_wrapper_select.c",
+  "output": "src/CMakeFiles/rats_tls.dir/crypto_wrappers/internal/rtls_crypto_wrapper_select.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/tls_wrappers/api/tls_wrapper_register.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/api/tls_wrapper_register.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/api/tls_wrapper_register.c",
+  "output": "src/CMakeFiles/rats_tls.dir/tls_wrappers/api/tls_wrapper_register.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/tls_wrappers/internal/rtls_tls_wrapper_load_all.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/internal/rtls_tls_wrapper_load_all.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/internal/rtls_tls_wrapper_load_all.c",
+  "output": "src/CMakeFiles/rats_tls.dir/tls_wrappers/internal/rtls_tls_wrapper_load_all.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/tls_wrappers/internal/rtls_tls_wrapper_load_single.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/internal/rtls_tls_wrapper_load_single.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/internal/rtls_tls_wrapper_load_single.c",
+  "output": "src/CMakeFiles/rats_tls.dir/tls_wrappers/internal/rtls_tls_wrapper_load_single.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/tls_wrappers/internal/rtls_tls_wrapper_select.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/internal/rtls_tls_wrapper_select.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/internal/rtls_tls_wrapper_select.c",
+  "output": "src/CMakeFiles/rats_tls.dir/tls_wrappers/internal/rtls_tls_wrapper_select.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/tls_wrappers/internal/tls_wrapper.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/internal/tls_wrapper.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/internal/tls_wrapper.c",
+  "output": "src/CMakeFiles/rats_tls.dir/tls_wrappers/internal/tls_wrapper.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/tls_wrappers/api/tls_wrapper_verify_certificate_extension.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/api/tls_wrapper_verify_certificate_extension.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/api/tls_wrapper_verify_certificate_extension.c",
+  "output": "src/CMakeFiles/rats_tls.dir/tls_wrappers/api/tls_wrapper_verify_certificate_extension.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/attesters/api/enclave_attester_register.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/attesters/api/enclave_attester_register.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/attesters/api/enclave_attester_register.c",
+  "output": "src/CMakeFiles/rats_tls.dir/attesters/api/enclave_attester_register.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/attesters/internal/enclave_attester.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/attesters/internal/enclave_attester.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/attesters/internal/enclave_attester.c",
+  "output": "src/CMakeFiles/rats_tls.dir/attesters/internal/enclave_attester.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/attesters/internal/rtls_enclave_attester_load_all.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/attesters/internal/rtls_enclave_attester_load_all.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/attesters/internal/rtls_enclave_attester_load_all.c",
+  "output": "src/CMakeFiles/rats_tls.dir/attesters/internal/rtls_enclave_attester_load_all.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/attesters/internal/rtls_enclave_attester_load_single.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/attesters/internal/rtls_enclave_attester_load_single.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/attesters/internal/rtls_enclave_attester_load_single.c",
+  "output": "src/CMakeFiles/rats_tls.dir/attesters/internal/rtls_enclave_attester_load_single.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/attesters/internal/rtls_enclave_attester_select.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/attesters/internal/rtls_enclave_attester_select.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/attesters/internal/rtls_enclave_attester_select.c",
+  "output": "src/CMakeFiles/rats_tls.dir/attesters/internal/rtls_enclave_attester_select.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/verifiers/api/enclave_verifier_register.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/verifiers/api/enclave_verifier_register.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/api/enclave_verifier_register.c",
+  "output": "src/CMakeFiles/rats_tls.dir/verifiers/api/enclave_verifier_register.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/verifiers/internal/enclave_verifier.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/verifiers/internal/enclave_verifier.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/internal/enclave_verifier.c",
+  "output": "src/CMakeFiles/rats_tls.dir/verifiers/internal/enclave_verifier.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/verifiers/internal/rtls_enclave_verifier_load_all.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/verifiers/internal/rtls_enclave_verifier_load_all.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/internal/rtls_enclave_verifier_load_all.c",
+  "output": "src/CMakeFiles/rats_tls.dir/verifiers/internal/rtls_enclave_verifier_load_all.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/verifiers/internal/rtls_enclave_verifier_load_single.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/verifiers/internal/rtls_enclave_verifier_load_single.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/internal/rtls_enclave_verifier_load_single.c",
+  "output": "src/CMakeFiles/rats_tls.dir/verifiers/internal/rtls_enclave_verifier_load_single.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src",
+  "command": "/usr/bin/cc -DCCA -Drats_tls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/rats_tls.dir/verifiers/internal/rtls_enclave_verifier_select.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/verifiers/internal/rtls_enclave_verifier_select.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/internal/rtls_enclave_verifier_select.c",
+  "output": "src/CMakeFiles/rats_tls.dir/verifiers/internal/rtls_enclave_verifier_select.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/attesters/nullattester",
+  "command": "/usr/bin/cc -DCCA -Dattester_nullattester_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/attester_nullattester.dir/cleanup.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/attesters/nullattester/cleanup.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/attesters/nullattester/cleanup.c",
+  "output": "src/attesters/nullattester/CMakeFiles/attester_nullattester.dir/cleanup.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/attesters/nullattester",
+  "command": "/usr/bin/cc -DCCA -Dattester_nullattester_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/attester_nullattester.dir/collect_evidence.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/attesters/nullattester/collect_evidence.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/attesters/nullattester/collect_evidence.c",
+  "output": "src/attesters/nullattester/CMakeFiles/attester_nullattester.dir/collect_evidence.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/attesters/nullattester",
+  "command": "/usr/bin/cc -DCCA -Dattester_nullattester_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/attester_nullattester.dir/collect_endorsements.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/attesters/nullattester/collect_endorsements.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/attesters/nullattester/collect_endorsements.c",
+  "output": "src/attesters/nullattester/CMakeFiles/attester_nullattester.dir/collect_endorsements.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/attesters/nullattester",
+  "command": "/usr/bin/cc -DCCA -Dattester_nullattester_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/attester_nullattester.dir/init.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/attesters/nullattester/init.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/attesters/nullattester/init.c",
+  "output": "src/attesters/nullattester/CMakeFiles/attester_nullattester.dir/init.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/attesters/nullattester",
+  "command": "/usr/bin/cc -DCCA -Dattester_nullattester_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/attester_nullattester.dir/main.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/attesters/nullattester/main.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/attesters/nullattester/main.c",
+  "output": "src/attesters/nullattester/CMakeFiles/attester_nullattester.dir/main.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/attesters/nullattester",
+  "command": "/usr/bin/cc -DCCA -Dattester_nullattester_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/attester_nullattester.dir/pre_init.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/attesters/nullattester/pre_init.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/attesters/nullattester/pre_init.c",
+  "output": "src/attesters/nullattester/CMakeFiles/attester_nullattester.dir/pre_init.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/attesters/arm-cca",
+  "command": "/usr/bin/cc -DCCA -Dattester_arm_cca_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/../../include -I/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/../../include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/../../include/internal -I/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/attester_arm_cca.dir/cleanup.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/cleanup.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/cleanup.c",
+  "output": "src/attesters/arm-cca/CMakeFiles/attester_arm_cca.dir/cleanup.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/attesters/arm-cca",
+  "command": "/usr/bin/cc -DCCA -Dattester_arm_cca_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/../../include -I/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/../../include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/../../include/internal -I/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/attester_arm_cca.dir/collect_evidence.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/collect_evidence.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/collect_evidence.c",
+  "output": "src/attesters/arm-cca/CMakeFiles/attester_arm_cca.dir/collect_evidence.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/attesters/arm-cca",
+  "command": "/usr/bin/cc -DCCA -Dattester_arm_cca_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/../../include -I/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/../../include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/../../include/internal -I/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/attester_arm_cca.dir/init.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/init.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/init.c",
+  "output": "src/attesters/arm-cca/CMakeFiles/attester_arm_cca.dir/init.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/attesters/arm-cca",
+  "command": "/usr/bin/cc -DCCA -Dattester_arm_cca_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/../../include -I/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/../../include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/../../include/internal -I/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/attester_arm_cca.dir/main.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/main.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/main.c",
+  "output": "src/attesters/arm-cca/CMakeFiles/attester_arm_cca.dir/main.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/attesters/arm-cca",
+  "command": "/usr/bin/cc -DCCA -Dattester_arm_cca_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/../../include -I/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/../../include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/../../include/internal -I/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/attester_arm_cca.dir/pre_init.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/pre_init.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/attesters/arm-cca/pre_init.c",
+  "output": "src/attesters/arm-cca/CMakeFiles/attester_arm_cca.dir/pre_init.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/verifiers/nullverifier",
+  "command": "/usr/bin/cc -DCCA -Dverifier_nullverifier_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/verifier_nullverifier.dir/cleanup.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/verifiers/nullverifier/cleanup.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/nullverifier/cleanup.c",
+  "output": "src/verifiers/nullverifier/CMakeFiles/verifier_nullverifier.dir/cleanup.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/verifiers/nullverifier",
+  "command": "/usr/bin/cc -DCCA -Dverifier_nullverifier_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/verifier_nullverifier.dir/init.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/verifiers/nullverifier/init.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/nullverifier/init.c",
+  "output": "src/verifiers/nullverifier/CMakeFiles/verifier_nullverifier.dir/init.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/verifiers/nullverifier",
+  "command": "/usr/bin/cc -DCCA -Dverifier_nullverifier_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/verifier_nullverifier.dir/main.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/verifiers/nullverifier/main.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/nullverifier/main.c",
+  "output": "src/verifiers/nullverifier/CMakeFiles/verifier_nullverifier.dir/main.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/verifiers/nullverifier",
+  "command": "/usr/bin/cc -DCCA -Dverifier_nullverifier_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/verifier_nullverifier.dir/pre_init.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/verifiers/nullverifier/pre_init.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/nullverifier/pre_init.c",
+  "output": "src/verifiers/nullverifier/CMakeFiles/verifier_nullverifier.dir/pre_init.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/verifiers/nullverifier",
+  "command": "/usr/bin/cc -DCCA -Dverifier_nullverifier_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/verifier_nullverifier.dir/verify_evidence.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/verifiers/nullverifier/verify_evidence.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/nullverifier/verify_evidence.c",
+  "output": "src/verifiers/nullverifier/CMakeFiles/verifier_nullverifier.dir/verify_evidence.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/verifiers/arm-cca",
+  "command": "/usr/bin/cc -DCCA -Dverifier_arm_cca_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/../../include -I/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/../../include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/../../include/internal -I/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/verifier_arm_cca.dir/cleanup.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/cleanup.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/cleanup.c",
+  "output": "src/verifiers/arm-cca/CMakeFiles/verifier_arm_cca.dir/cleanup.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/verifiers/arm-cca",
+  "command": "/usr/bin/cc -DCCA -Dverifier_arm_cca_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/../../include -I/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/../../include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/../../include/internal -I/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/verifier_arm_cca.dir/init.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/init.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/init.c",
+  "output": "src/verifiers/arm-cca/CMakeFiles/verifier_arm_cca.dir/init.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/verifiers/arm-cca",
+  "command": "/usr/bin/cc -DCCA -Dverifier_arm_cca_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/../../include -I/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/../../include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/../../include/internal -I/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/verifier_arm_cca.dir/main.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/main.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/main.c",
+  "output": "src/verifiers/arm-cca/CMakeFiles/verifier_arm_cca.dir/main.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/verifiers/arm-cca",
+  "command": "/usr/bin/cc -DCCA -Dverifier_arm_cca_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/../../include -I/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/../../include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/../../include/internal -I/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/verifier_arm_cca.dir/pre_init.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/pre_init.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/pre_init.c",
+  "output": "src/verifiers/arm-cca/CMakeFiles/verifier_arm_cca.dir/pre_init.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/verifiers/arm-cca",
+  "command": "/usr/bin/cc -DCCA -Dverifier_arm_cca_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/../../include -I/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/../../include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/../../include/internal -I/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/verifier_arm_cca.dir/verify_evidence.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/verify_evidence.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/verifiers/arm-cca/verify_evidence.c",
+  "output": "src/verifiers/arm-cca/CMakeFiles/verifier_arm_cca.dir/verify_evidence.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/crypto_wrappers/nullcrypto",
+  "command": "/usr/bin/cc -DCCA -Dcrypto_wrapper_nullcrypto_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/crypto_wrapper_nullcrypto.dir/cleanup.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/nullcrypto/cleanup.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/nullcrypto/cleanup.c",
+  "output": "src/crypto_wrappers/nullcrypto/CMakeFiles/crypto_wrapper_nullcrypto.dir/cleanup.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/crypto_wrappers/nullcrypto",
+  "command": "/usr/bin/cc -DCCA -Dcrypto_wrapper_nullcrypto_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/crypto_wrapper_nullcrypto.dir/gen_cert.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/nullcrypto/gen_cert.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/nullcrypto/gen_cert.c",
+  "output": "src/crypto_wrappers/nullcrypto/CMakeFiles/crypto_wrapper_nullcrypto.dir/gen_cert.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/crypto_wrappers/nullcrypto",
+  "command": "/usr/bin/cc -DCCA -Dcrypto_wrapper_nullcrypto_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/crypto_wrapper_nullcrypto.dir/gen_privkey.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/nullcrypto/gen_privkey.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/nullcrypto/gen_privkey.c",
+  "output": "src/crypto_wrappers/nullcrypto/CMakeFiles/crypto_wrapper_nullcrypto.dir/gen_privkey.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/crypto_wrappers/nullcrypto",
+  "command": "/usr/bin/cc -DCCA -Dcrypto_wrapper_nullcrypto_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/crypto_wrapper_nullcrypto.dir/gen_pubkey_hash.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/nullcrypto/gen_pubkey_hash.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/nullcrypto/gen_pubkey_hash.c",
+  "output": "src/crypto_wrappers/nullcrypto/CMakeFiles/crypto_wrapper_nullcrypto.dir/gen_pubkey_hash.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/crypto_wrappers/nullcrypto",
+  "command": "/usr/bin/cc -DCCA -Dcrypto_wrapper_nullcrypto_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/crypto_wrapper_nullcrypto.dir/gen_hash.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/nullcrypto/gen_hash.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/nullcrypto/gen_hash.c",
+  "output": "src/crypto_wrappers/nullcrypto/CMakeFiles/crypto_wrapper_nullcrypto.dir/gen_hash.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/crypto_wrappers/nullcrypto",
+  "command": "/usr/bin/cc -DCCA -Dcrypto_wrapper_nullcrypto_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/crypto_wrapper_nullcrypto.dir/init.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/nullcrypto/init.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/nullcrypto/init.c",
+  "output": "src/crypto_wrappers/nullcrypto/CMakeFiles/crypto_wrapper_nullcrypto.dir/init.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/crypto_wrappers/nullcrypto",
+  "command": "/usr/bin/cc -DCCA -Dcrypto_wrapper_nullcrypto_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/crypto_wrapper_nullcrypto.dir/main.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/nullcrypto/main.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/nullcrypto/main.c",
+  "output": "src/crypto_wrappers/nullcrypto/CMakeFiles/crypto_wrapper_nullcrypto.dir/main.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/crypto_wrappers/nullcrypto",
+  "command": "/usr/bin/cc -DCCA -Dcrypto_wrapper_nullcrypto_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/crypto_wrapper_nullcrypto.dir/pre_init.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/nullcrypto/pre_init.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/nullcrypto/pre_init.c",
+  "output": "src/crypto_wrappers/nullcrypto/CMakeFiles/crypto_wrapper_nullcrypto.dir/pre_init.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/crypto_wrappers/openssl",
+  "command": "/usr/bin/cc -DCCA -Dcrypto_wrapper_openssl_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/crypto_wrapper_openssl.dir/cleanup.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/openssl/cleanup.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/openssl/cleanup.c",
+  "output": "src/crypto_wrappers/openssl/CMakeFiles/crypto_wrapper_openssl.dir/cleanup.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/crypto_wrappers/openssl",
+  "command": "/usr/bin/cc -DCCA -Dcrypto_wrapper_openssl_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/crypto_wrapper_openssl.dir/gen_cert.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/openssl/gen_cert.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/openssl/gen_cert.c",
+  "output": "src/crypto_wrappers/openssl/CMakeFiles/crypto_wrapper_openssl.dir/gen_cert.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/crypto_wrappers/openssl",
+  "command": "/usr/bin/cc -DCCA -Dcrypto_wrapper_openssl_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/crypto_wrapper_openssl.dir/gen_privkey.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/openssl/gen_privkey.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/openssl/gen_privkey.c",
+  "output": "src/crypto_wrappers/openssl/CMakeFiles/crypto_wrapper_openssl.dir/gen_privkey.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/crypto_wrappers/openssl",
+  "command": "/usr/bin/cc -DCCA -Dcrypto_wrapper_openssl_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/crypto_wrapper_openssl.dir/gen_pubkey_hash.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/openssl/gen_pubkey_hash.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/openssl/gen_pubkey_hash.c",
+  "output": "src/crypto_wrappers/openssl/CMakeFiles/crypto_wrapper_openssl.dir/gen_pubkey_hash.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/crypto_wrappers/openssl",
+  "command": "/usr/bin/cc -DCCA -Dcrypto_wrapper_openssl_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/crypto_wrapper_openssl.dir/gen_hash.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/openssl/gen_hash.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/openssl/gen_hash.c",
+  "output": "src/crypto_wrappers/openssl/CMakeFiles/crypto_wrapper_openssl.dir/gen_hash.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/crypto_wrappers/openssl",
+  "command": "/usr/bin/cc -DCCA -Dcrypto_wrapper_openssl_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/crypto_wrapper_openssl.dir/init.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/openssl/init.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/openssl/init.c",
+  "output": "src/crypto_wrappers/openssl/CMakeFiles/crypto_wrapper_openssl.dir/init.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/crypto_wrappers/openssl",
+  "command": "/usr/bin/cc -DCCA -Dcrypto_wrapper_openssl_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/crypto_wrapper_openssl.dir/main.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/openssl/main.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/openssl/main.c",
+  "output": "src/crypto_wrappers/openssl/CMakeFiles/crypto_wrapper_openssl.dir/main.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/crypto_wrappers/openssl",
+  "command": "/usr/bin/cc -DCCA -Dcrypto_wrapper_openssl_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/crypto_wrapper_openssl.dir/pre_init.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/openssl/pre_init.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/crypto_wrappers/openssl/pre_init.c",
+  "output": "src/crypto_wrappers/openssl/CMakeFiles/crypto_wrapper_openssl.dir/pre_init.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/tls_wrappers/nulltls",
+  "command": "/usr/bin/cc -DCCA -Dtls_wrapper_nulltls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/tls_wrapper_nulltls.dir/cleanup.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/nulltls/cleanup.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/nulltls/cleanup.c",
+  "output": "src/tls_wrappers/nulltls/CMakeFiles/tls_wrapper_nulltls.dir/cleanup.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/tls_wrappers/nulltls",
+  "command": "/usr/bin/cc -DCCA -Dtls_wrapper_nulltls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/tls_wrapper_nulltls.dir/init.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/nulltls/init.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/nulltls/init.c",
+  "output": "src/tls_wrappers/nulltls/CMakeFiles/tls_wrapper_nulltls.dir/init.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/tls_wrappers/nulltls",
+  "command": "/usr/bin/cc -DCCA -Dtls_wrapper_nulltls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/tls_wrapper_nulltls.dir/main.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/nulltls/main.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/nulltls/main.c",
+  "output": "src/tls_wrappers/nulltls/CMakeFiles/tls_wrapper_nulltls.dir/main.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/tls_wrappers/nulltls",
+  "command": "/usr/bin/cc -DCCA -Dtls_wrapper_nulltls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/tls_wrapper_nulltls.dir/negotiate.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/nulltls/negotiate.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/nulltls/negotiate.c",
+  "output": "src/tls_wrappers/nulltls/CMakeFiles/tls_wrapper_nulltls.dir/negotiate.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/tls_wrappers/nulltls",
+  "command": "/usr/bin/cc -DCCA -Dtls_wrapper_nulltls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/tls_wrapper_nulltls.dir/pre_init.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/nulltls/pre_init.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/nulltls/pre_init.c",
+  "output": "src/tls_wrappers/nulltls/CMakeFiles/tls_wrapper_nulltls.dir/pre_init.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/tls_wrappers/nulltls",
+  "command": "/usr/bin/cc -DCCA -Dtls_wrapper_nulltls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/tls_wrapper_nulltls.dir/receive.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/nulltls/receive.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/nulltls/receive.c",
+  "output": "src/tls_wrappers/nulltls/CMakeFiles/tls_wrapper_nulltls.dir/receive.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/tls_wrappers/nulltls",
+  "command": "/usr/bin/cc -DCCA -Dtls_wrapper_nulltls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/tls_wrapper_nulltls.dir/transmit.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/nulltls/transmit.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/nulltls/transmit.c",
+  "output": "src/tls_wrappers/nulltls/CMakeFiles/tls_wrapper_nulltls.dir/transmit.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/tls_wrappers/nulltls",
+  "command": "/usr/bin/cc -DCCA -Dtls_wrapper_nulltls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/tls_wrapper_nulltls.dir/use_cert.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/nulltls/use_cert.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/nulltls/use_cert.c",
+  "output": "src/tls_wrappers/nulltls/CMakeFiles/tls_wrapper_nulltls.dir/use_cert.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/tls_wrappers/nulltls",
+  "command": "/usr/bin/cc -DCCA -Dtls_wrapper_nulltls_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/tls_wrapper_nulltls.dir/use_privkey.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/nulltls/use_privkey.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/nulltls/use_privkey.c",
+  "output": "src/tls_wrappers/nulltls/CMakeFiles/tls_wrapper_nulltls.dir/use_privkey.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/tls_wrappers/openssl",
+  "command": "/usr/bin/cc -DCCA -Dtls_wrapper_openssl_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/tls_wrapper_openssl.dir/cleanup.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/openssl/cleanup.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/openssl/cleanup.c",
+  "output": "src/tls_wrappers/openssl/CMakeFiles/tls_wrapper_openssl.dir/cleanup.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/tls_wrappers/openssl",
+  "command": "/usr/bin/cc -DCCA -Dtls_wrapper_openssl_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/tls_wrapper_openssl.dir/init.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/openssl/init.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/openssl/init.c",
+  "output": "src/tls_wrappers/openssl/CMakeFiles/tls_wrapper_openssl.dir/init.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/tls_wrappers/openssl",
+  "command": "/usr/bin/cc -DCCA -Dtls_wrapper_openssl_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/tls_wrapper_openssl.dir/main.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/openssl/main.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/openssl/main.c",
+  "output": "src/tls_wrappers/openssl/CMakeFiles/tls_wrapper_openssl.dir/main.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/tls_wrappers/openssl",
+  "command": "/usr/bin/cc -DCCA -Dtls_wrapper_openssl_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/tls_wrapper_openssl.dir/negotiate.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/openssl/negotiate.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/openssl/negotiate.c",
+  "output": "src/tls_wrappers/openssl/CMakeFiles/tls_wrapper_openssl.dir/negotiate.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/tls_wrappers/openssl",
+  "command": "/usr/bin/cc -DCCA -Dtls_wrapper_openssl_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/tls_wrapper_openssl.dir/un_negotiate.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/openssl/un_negotiate.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/openssl/un_negotiate.c",
+  "output": "src/tls_wrappers/openssl/CMakeFiles/tls_wrapper_openssl.dir/un_negotiate.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/tls_wrappers/openssl",
+  "command": "/usr/bin/cc -DCCA -Dtls_wrapper_openssl_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/tls_wrapper_openssl.dir/pre_init.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/openssl/pre_init.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/openssl/pre_init.c",
+  "output": "src/tls_wrappers/openssl/CMakeFiles/tls_wrapper_openssl.dir/pre_init.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/tls_wrappers/openssl",
+  "command": "/usr/bin/cc -DCCA -Dtls_wrapper_openssl_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/tls_wrapper_openssl.dir/receive.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/openssl/receive.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/openssl/receive.c",
+  "output": "src/tls_wrappers/openssl/CMakeFiles/tls_wrapper_openssl.dir/receive.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/tls_wrappers/openssl",
+  "command": "/usr/bin/cc -DCCA -Dtls_wrapper_openssl_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/tls_wrapper_openssl.dir/transmit.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/openssl/transmit.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/openssl/transmit.c",
+  "output": "src/tls_wrappers/openssl/CMakeFiles/tls_wrapper_openssl.dir/transmit.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/tls_wrappers/openssl",
+  "command": "/usr/bin/cc -DCCA -Dtls_wrapper_openssl_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/tls_wrapper_openssl.dir/use_cert.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/openssl/use_cert.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/openssl/use_cert.c",
+  "output": "src/tls_wrappers/openssl/CMakeFiles/tls_wrapper_openssl.dir/use_cert.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/tls_wrappers/openssl",
+  "command": "/usr/bin/cc -DCCA -Dtls_wrapper_openssl_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/tls_wrapper_openssl.dir/use_privkey.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/openssl/use_privkey.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/openssl/use_privkey.c",
+  "output": "src/tls_wrappers/openssl/CMakeFiles/tls_wrapper_openssl.dir/use_privkey.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/src/tls_wrappers/openssl",
+  "command": "/usr/bin/cc -DCCA -Dtls_wrapper_openssl_EXPORTS -I/home/sanwu/ra-tls-cca/rats-tls/src/include -I/home/sanwu/ra-tls-cca/rats-tls/src/include/rats-tls -I/home/sanwu/ra-tls-cca/rats-tls/src/include/internal -I/opt/intel/sgxsdk/include  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -fPIC -o CMakeFiles/tls_wrapper_openssl.dir/x509_openssl10x.c.o -c /home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/openssl/x509_openssl10x.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/src/tls_wrappers/openssl/x509_openssl10x.c",
+  "output": "src/tls_wrappers/openssl/CMakeFiles/tls_wrapper_openssl.dir/x509_openssl10x.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/samples/rats-tls-client",
+  "command": "/usr/bin/cc -DCCA -I/home/sanwu/ra-tls-cca/rats-tls/samples/rats-tls-client/../../src/include -I/home/sanwu/ra-tls-cca/rats-tls/samples/rats-tls-client/../../src/include/edl -I/home/sanwu/ra-tls-cca/rats-tls/samples/rats-tls-client/../../src/include/rats-tls -I/home/sanwu/local/include/rats-tls -I/home/sanwu/local/include/rats-tls/edl -fPIE  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -o CMakeFiles/rats-tls-client.dir/client.c.o -c /home/sanwu/ra-tls-cca/rats-tls/samples/rats-tls-client/client.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/samples/rats-tls-client/client.c",
+  "output": "samples/rats-tls-client/CMakeFiles/rats-tls-client.dir/client.c.o"
+},
+{
+  "directory": "/home/sanwu/ra-tls-cca/rats-tls/build/samples/rats-tls-server",
+  "command": "/usr/bin/cc -DCCA -I/home/sanwu/ra-tls-cca/rats-tls/samples/rats-tls-server/../../src/include -I/home/sanwu/ra-tls-cca/rats-tls/samples/rats-tls-server/../../src/include/edl -I/home/sanwu/ra-tls-cca/rats-tls/samples/rats-tls-server/../../src/include/rats-tls -I/home/sanwu/local/include/rats-tls -I/home/sanwu/local/include/rats-tls/edl -fPIE  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 -o CMakeFiles/rats-tls-server.dir/server.c.o -c /home/sanwu/ra-tls-cca/rats-tls/samples/rats-tls-server/server.c",
+  "file": "/home/sanwu/ra-tls-cca/rats-tls/samples/rats-tls-server/server.c",
+  "output": "samples/rats-tls-server/CMakeFiles/rats-tls-server.dir/server.c.o"
+}
+]

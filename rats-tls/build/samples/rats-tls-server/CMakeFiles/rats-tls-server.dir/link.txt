@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIE  -std=gnu11 -fPIC -Werror=implicit-function-declaration -ggdb -O0 "CMakeFiles/rats-tls-server.dir/server.c.o" -o rats-tls-server   -L/home/sanwu/local/lib/rats-tls  -Wl,-rpath,/home/sanwu/local/lib/rats-tls:/home/sanwu/ra-tls-cca/rats-tls/build/src: ../../src/librats_tls.so.0.6.4 -fPIC -Bsymbolic -ldl -lcbor 
